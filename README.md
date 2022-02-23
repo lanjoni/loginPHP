@@ -2,7 +2,7 @@
 
 Este repositório contém um formulário de login responsivo (fazendo uso do BootStrap) capaz de verificar credenciais para nome de usuário e senha, comumente utilizado em locais na qual se tem como necessário acessar serviços.
 
-Aqui temos os arquivos totalmente configurados e com diversos comentários, por isso, creio que consiga lhe ajudar naquilo que for necessário!
+Aqui temos os arquivos totalmente configurados e com diversos comentários, por isso, creio que consiga lhe ajudar naquilo que for necessário! Se surgir alguma dúvida sinta-se à vontade para me contatar em alguma de minhas redes sociais, ou até mesmo pelo e-mail caso prefira.
 
 Muito obrigado! 😉
 
@@ -10,7 +10,7 @@ Muito obrigado! 😉
 
 This repository contains a responsive login form (using BootStrap) capable of verifying credentials for username and password, commonly used in places where it is necessary to access services.
 
-Here we have the files fully configured and with several comments, so I think I can help you in whatever you need!
+Here we have the files fully configured and with several comments, so I think I can help you in whatever you need! If you have any questions, feel free to contact me on any of my social networks, or even by email if you prefer.
 
 Thank you very much! 😉
 
